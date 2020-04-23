@@ -1,2 +1,2 @@
 ## Reference only!
-This not my work, but work from a chinese developer.
+This not my work, it's from a chinese developer.
